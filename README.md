@@ -57,9 +57,20 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 **Environment Credentials:**
-In the `/backend` folder, ensure you have a valid `.env` file containing your groq credentials:
+In the `/backend` folder, copy `.env.example` to `.env` and configure your keys:
 ```env
+# --- Core AI (Llama-3 via Groq) ---
 GROQ_API_KEY=gsk_your_api_key_here
+
+# --- Visual Director (B-Roll Assets) ---
+PEXELS_API_KEY=your_pexels_api_key_here (Optional: Disables Video Generation if missing)
+
+# --- Market Data & Search ---
+NEWS_API_KEY=your_newsapi_key_here
+SERPER_API_KEY=your_serper_api_key_here
+
+# --- Voice Engine (Optional) ---
+ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
 ```
 **Launch Server:**
 ```bash
