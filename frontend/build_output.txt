@@ -1,0 +1,87 @@
+﻿node.exe : ΓÜá Warning: 
+Next.js inferred your 
+workspace root, but it 
+may not be correct.
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (Γ  
+  Üá Warning: Ne...not    
+ be correct.:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+ We detected multiple 
+lockfiles and selected 
+the directory of C:\Users\
+USER\package-lock.json as 
+the root directory.
+ To silence this warning, 
+set `turbopack.root` in 
+your Next.js config, or 
+consider removing one of 
+the lockfiles if it's not 
+needed.
+   See https://nextjs.org/
+docs/app/api-reference/con
+fig/next-config-js/turbopa
+ck#root-directory for 
+more information.
+ Detected additional 
+lockfiles: 
+   * C:\Users\USER\OneDriv
+e\Desktop\ET_news\frontend
+\package-lock.json
+
+Γû▓ Next.js 16.2.1 (Turbopack)
+
+  Creating an optimized production build ...
+Found 1 warning while 
+optimizing generated CSS:
+
+[2mΓöé   }[22m
+[2mΓöé }[22m
+[2mΓöé[22m @import url('
+https://fonts.googleapis.c
+om/css2?family=Merriweathe
+r:ital,wght@0,300;0,400;0,
+700;0,900;1,300;1,400;1,70
+0;1,900&family=Inter:wght@
+300;400;500;600;700;800&di
+splay=swap');
+[2mΓöå[22m        
+[33m[2m^--[22m @import 
+rules must precede all 
+rules aside from @charset 
+and @layer statements[39m
+[2mΓöå[22m
+[2mΓöé :root {[22m
+[2mΓöé   --et-red: 
+#ED1C24;[22m
+
+Γ£ô Compiled successfully in 2.7s
+  Running TypeScript ...
+  Finished TypeScript in 2.7s ...
+  Collecting page data using 5 workers ...
+  Generating static pages using 5 workers (0/4) ...
+  Generating static pages using 5 workers (1/4) 
+  Generating static pages using 5 workers (2/4) 
+  Generating static pages using 5 workers (3/4) 
+Γ£ô Generating static pages using 5 workers (4/4) in 579ms
+  Finalizing page optimization ...
+
+Route (app)
+Γöî Γùï /
+Γöö Γùï /_not-found
+
+
+Γùï  (Static)  prerendered as static content
+
