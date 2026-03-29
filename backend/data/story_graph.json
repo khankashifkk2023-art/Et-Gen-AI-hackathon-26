@@ -1,0 +1,1342 @@
+{
+  "nodes": [
+    {
+      "id": "TATAMOTORS",
+      "type": "COMPANY",
+      "name": "Tata Motors",
+      "mentions": 60,
+      "metadata": {}
+    },
+    {
+      "id": "Nexon EV Max Plus",
+      "type": "EVENT",
+      "name": "Nexon EV Max Plus launch",
+      "mentions": 15,
+      "metadata": {}
+    },
+    {
+      "id": "MG ZS EV",
+      "type": "COMPANY",
+      "name": "MG ZS EV",
+      "mentions": 15,
+      "metadata": {}
+    },
+    {
+      "id": "Hyundai Kona Electric",
+      "type": "COMPANY",
+      "name": "Hyundai Kona Electric",
+      "mentions": 15,
+      "metadata": {}
+    },
+    {
+      "id": "Tata Motors CEO",
+      "type": "PERSON",
+      "name": "Tata Motors CEO",
+      "mentions": 4,
+      "metadata": {}
+    },
+    {
+      "id": "Government",
+      "type": "POLICY",
+      "name": "Government",
+      "mentions": 13,
+      "metadata": {}
+    },
+    {
+      "id": "RBI",
+      "type": "COMPANY",
+      "name": "Reserve Bank of India",
+      "mentions": 75,
+      "metadata": {}
+    },
+    {
+      "id": "MONETARY_POLICY",
+      "type": "POLICY",
+      "name": "Monetary Policy",
+      "mentions": 6,
+      "metadata": {}
+    },
+    {
+      "id": "REPO_RATE",
+      "type": "METRIC",
+      "name": "Repo Rate",
+      "mentions": 26,
+      "metadata": {}
+    },
+    {
+      "id": "INFLATION",
+      "type": "METRIC",
+      "name": "Inflation",
+      "mentions": 41,
+      "metadata": {}
+    },
+    {
+      "id": "GDP_GROWTH",
+      "type": "METRIC",
+      "name": "GDP Growth",
+      "mentions": 15,
+      "metadata": {}
+    },
+    {
+      "id": "FOREIGN_INSTITUTIONAL_INVESTORS",
+      "type": "COMPANY",
+      "name": "Foreign Institutional Investors",
+      "mentions": 15,
+      "metadata": {}
+    },
+    {
+      "id": "INFY",
+      "type": "COMPANY",
+      "name": "Infosys",
+      "mentions": 70,
+      "metadata": {}
+    },
+    {
+      "id": "Salil Parekh",
+      "type": "PERSON",
+      "name": "Salil Parekh",
+      "mentions": 14,
+      "metadata": {}
+    },
+    {
+      "id": "Q4 FY2026",
+      "type": "EVENT",
+      "name": "Q4 FY2026",
+      "mentions": 30,
+      "metadata": {}
+    },
+    {
+      "id": "BFSI",
+      "type": "METRIC",
+      "name": "BFSI sector",
+      "mentions": 14,
+      "metadata": {}
+    },
+    {
+      "id": "AI",
+      "type": "METRIC",
+      "name": "AI capabilities",
+      "mentions": 13,
+      "metadata": {}
+    },
+    {
+      "id": "RELIANCE",
+      "type": "COMPANY",
+      "name": "Reliance Industries",
+      "mentions": 64,
+      "metadata": {}
+    },
+    {
+      "id": "ENERGY",
+      "type": "METRIC",
+      "name": "Energy Sector",
+      "mentions": 25,
+      "metadata": {}
+    },
+    {
+      "id": "TELECOM",
+      "type": "METRIC",
+      "name": "Telecom Sector",
+      "mentions": 31,
+      "metadata": {}
+    },
+    {
+      "id": "HDFCBANK",
+      "type": "COMPANY",
+      "name": "HDFC Bank",
+      "mentions": 60,
+      "metadata": {}
+    },
+    {
+      "id": "WIPRO",
+      "type": "COMPANY",
+      "name": "Wipro",
+      "mentions": 45,
+      "metadata": {}
+    },
+    {
+      "id": "IT",
+      "type": "METRIC",
+      "name": "IT services and consulting",
+      "mentions": 36,
+      "metadata": {}
+    },
+    {
+      "id": "Q4FY2026",
+      "type": "EVENT",
+      "name": "Q4 FY2026",
+      "mentions": 8,
+      "metadata": {}
+    },
+    {
+      "id": "RESEARCH_AND_DEVELOPMENT",
+      "type": "METRIC",
+      "name": "research and development",
+      "mentions": 7,
+      "metadata": {}
+    },
+    {
+      "id": "MARKET_SHARE",
+      "type": "METRIC",
+      "name": "market share",
+      "mentions": 12,
+      "metadata": {}
+    },
+    {
+      "id": "OPERATING_MARGINS",
+      "type": "METRIC",
+      "name": "operating margins",
+      "mentions": 12,
+      "metadata": {}
+    },
+    {
+      "id": "ANALYSTS",
+      "type": "PERSON",
+      "name": "analysts",
+      "mentions": 14,
+      "metadata": {}
+    },
+    {
+      "id": "HCLTECH",
+      "type": "COMPANY",
+      "name": "HCL Technologies",
+      "mentions": 44,
+      "metadata": {}
+    },
+    {
+      "id": "REVENUE",
+      "type": "METRIC",
+      "name": "Revenue",
+      "mentions": 7,
+      "metadata": {}
+    },
+    {
+      "id": "banking and financial services",
+      "type": "UNKNOWN",
+      "name": "banking and financial services",
+      "mentions": 0,
+      "metadata": {}
+    },
+    {
+      "id": "technology and infrastructure",
+      "type": "UNKNOWN",
+      "name": "technology and infrastructure",
+      "mentions": 0,
+      "metadata": {}
+    },
+    {
+      "id": "research and development",
+      "type": "UNKNOWN",
+      "name": "research and development",
+      "mentions": 0,
+      "metadata": {}
+    },
+    {
+      "id": "analysts",
+      "type": "UNKNOWN",
+      "name": "analysts",
+      "mentions": 0,
+      "metadata": {}
+    },
+    {
+      "id": "Indian market",
+      "type": "UNKNOWN",
+      "name": "Indian market",
+      "mentions": 7,
+      "metadata": {}
+    },
+    {
+      "id": "EV",
+      "type": "METRIC",
+      "name": "Electric Vehicle segment",
+      "mentions": 22,
+      "metadata": {}
+    },
+    {
+      "id": "CEO",
+      "type": "PERSON",
+      "name": "Tata Motors CEO",
+      "mentions": 7,
+      "metadata": {}
+    },
+    {
+      "id": "FY2027",
+      "type": "EVENT",
+      "name": "FY2027",
+      "mentions": 11,
+      "metadata": {}
+    },
+    {
+      "id": "ITC",
+      "type": "COMPANY",
+      "name": "ITC",
+      "mentions": 45,
+      "metadata": {}
+    },
+    {
+      "id": "FMCG",
+      "type": "METRIC",
+      "name": "FMCG",
+      "mentions": 18,
+      "metadata": {}
+    },
+    {
+      "id": "CONSUMER",
+      "type": "METRIC",
+      "name": "Consumer Goods",
+      "mentions": 18,
+      "metadata": {}
+    },
+    {
+      "id": "Indian Market",
+      "type": "METRIC",
+      "name": "Indian Market",
+      "mentions": 8,
+      "metadata": {}
+    },
+    {
+      "id": "MARUTI",
+      "type": "COMPANY",
+      "name": "Maruti Suzuki",
+      "mentions": 40,
+      "metadata": {}
+    },
+    {
+      "id": "AUTO",
+      "type": "METRIC",
+      "name": "Automobile Manufacturing",
+      "mentions": 16,
+      "metadata": {}
+    },
+    {
+      "id": "MANUFACTURING",
+      "type": "METRIC",
+      "name": "Manufacturing",
+      "mentions": 6,
+      "metadata": {}
+    },
+    {
+      "id": "5,000 employees",
+      "type": "UNKNOWN",
+      "name": "5,000 employees",
+      "mentions": 0,
+      "metadata": {}
+    },
+    {
+      "id": "Rs 42,500 crore",
+      "type": "METRIC",
+      "name": "Q4 Revenue",
+      "mentions": 3,
+      "metadata": {}
+    },
+    {
+      "id": "Rs 7,800 crore",
+      "type": "METRIC",
+      "name": "Net Profit",
+      "mentions": 3,
+      "metadata": {}
+    },
+    {
+      "id": "Rs 10,000 crore",
+      "type": "METRIC",
+      "name": "Share Buyback",
+      "mentions": 3,
+      "metadata": {}
+    },
+    {
+      "id": "Rs 1,850",
+      "type": "METRIC",
+      "name": "Buyback Price",
+      "mentions": 3,
+      "metadata": {}
+    },
+    {
+      "id": "Rs 18",
+      "type": "METRIC",
+      "name": "Dividend",
+      "mentions": 3,
+      "metadata": {}
+    },
+    {
+      "id": "BHARTIARTL",
+      "type": "COMPANY",
+      "name": "Bharti Airtel",
+      "mentions": 25,
+      "metadata": {}
+    },
+    {
+      "id": "5G",
+      "type": "METRIC",
+      "name": "5G services",
+      "mentions": 6,
+      "metadata": {}
+    },
+    {
+      "id": "Rs 12 per share",
+      "type": "METRIC",
+      "name": "Dividend",
+      "mentions": 1,
+      "metadata": {}
+    },
+    {
+      "id": "R&D",
+      "type": "METRIC",
+      "name": "research and development",
+      "mentions": 2,
+      "metadata": {}
+    },
+    {
+      "id": "IndianMarket",
+      "type": "METRIC",
+      "name": "Indian market",
+      "mentions": 2,
+      "metadata": {}
+    },
+    {
+      "id": "Analysts",
+      "type": "PERSON",
+      "name": "Analysts",
+      "mentions": 1,
+      "metadata": {}
+    },
+    {
+      "id": "BOARD",
+      "type": "PERSON",
+      "name": "board",
+      "mentions": 1,
+      "metadata": {}
+    },
+    {
+      "id": "BANKING",
+      "type": "METRIC",
+      "name": "Banking and Financial Services",
+      "mentions": 1,
+      "metadata": {}
+    },
+    {
+      "id": "FINANCE",
+      "type": "METRIC",
+      "name": "Financial Services",
+      "mentions": 1,
+      "metadata": {}
+    }
+  ],
+  "edges": [
+    {
+      "source": "TATAMOTORS",
+      "target": "Nexon EV Max Plus",
+      "type": "ANNOUNCED",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "Tata Motors has launched its latest electric SUV, the Nexon EV Max Plus...",
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "article_title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "article_url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "edge_id": "TATAMOTORS_Nexon EV Max Plus_ANNOUNCED_unknown"
+    },
+    {
+      "source": "TATAMOTORS",
+      "target": "TATAMOTORS",
+      "type": "INVESTED_IN",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "The company has invested over Rs 5,000 crore in developing this platform",
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "article_title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "article_url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "edge_id": "TATAMOTORS_TATAMOTORS_INVESTED_IN_unknown"
+    },
+    {
+      "source": "TATAMOTORS",
+      "target": "MG ZS EV",
+      "type": "COMPETED_WITH",
+      "sentiment": 0.0,
+      "date": null,
+      "evidence": "The vehicle will compete directly with MG ZS EV and Hyundai Kona Electric.",
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "article_title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "article_url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "edge_id": "TATAMOTORS_MG ZS EV_COMPETED_WITH_unknown"
+    },
+    {
+      "source": "TATAMOTORS",
+      "target": "Hyundai Kona Electric",
+      "type": "COMPETED_WITH",
+      "sentiment": 0.0,
+      "date": null,
+      "evidence": "The vehicle will compete directly with MG ZS EV and Hyundai Kona Electric.",
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "article_title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "article_url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "edge_id": "TATAMOTORS_Hyundai Kona Electric_COMPETED_WITH_unknown"
+    },
+    {
+      "source": "TATAMOTORS",
+      "target": "Government",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "This launch comes at a time when the government is pushing for increased EV adoption through various incentives and subsidies.",
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "article_title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "article_url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "edge_id": "TATAMOTORS_Government_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "TATAMOTORS",
+      "target": "EV",
+      "type": "INVESTED_IN",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "The company has invested over Rs 5,000 crore in developing this platform.",
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "article_title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "article_url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "edge_id": "TATAMOTORS_EV_INVESTED_IN_unknown"
+    },
+    {
+      "source": "TATAMOTORS",
+      "target": "CEO",
+      "type": "ANNOUNCED",
+      "sentiment": 0.3,
+      "date": null,
+      "evidence": "Tata Motors CEO stated that the company aims to achieve 25% of its total sales from EVs by 2027.",
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "article_title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "article_url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "edge_id": "TATAMOTORS_CEO_ANNOUNCED_unknown"
+    },
+    {
+      "source": "Tata Motors CEO",
+      "target": "TATAMOTORS",
+      "type": "ANNOUNCED",
+      "sentiment": 0.6,
+      "date": null,
+      "evidence": "Tata Motors CEO stated that the company aims to achieve 25% of its total sales from EVs by 2027",
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "article_title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "article_url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "edge_id": "Tata Motors CEO_TATAMOTORS_ANNOUNCED_unknown"
+    },
+    {
+      "source": "Government",
+      "target": "TATAMOTORS",
+      "type": "REGULATED_BY",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "This launch comes at a time when the government is pushing for increased EV adoption through various incentives and subsidies",
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "article_title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "article_url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "edge_id": "Government_TATAMOTORS_REGULATED_BY_unknown"
+    },
+    {
+      "source": "Government",
+      "target": "EV",
+      "type": "REGULATED_BY",
+      "sentiment": 0.4,
+      "date": null,
+      "evidence": "This launch comes at a time when the government is pushing for increased EV adoption through various incentives and subsidies",
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "article_title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "article_url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "edge_id": "Government_EV_REGULATED_BY_unknown"
+    },
+    {
+      "source": "RBI",
+      "target": "REPO_RATE",
+      "type": "ANNOUNCED",
+      "sentiment": 0.0,
+      "date": null,
+      "evidence": "The Reserve Bank of India has decided to keep the repo rate unchanged at 6.5% for the third consecutive policy meeting.",
+      "article_id": "b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7",
+      "article_title": "RBI Keeps Repo Rate Unchanged at 6.5%, Maintains Accommodative Stance",
+      "article_url": "https://economictimes.indiatimes.com/markets/rbi-monetary-policy-decision",
+      "edge_id": "RBI_REPO_RATE_ANNOUNCED_unknown"
+    },
+    {
+      "source": "RBI",
+      "target": "INFLATION",
+      "type": "REGULATED_BY",
+      "sentiment": 0.0,
+      "date": null,
+      "evidence": "RBI Governor emphasized that inflation remains within the target range of 4% with a tolerance band of +/- 2%.",
+      "article_id": "b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7",
+      "article_title": "RBI Keeps Repo Rate Unchanged at 6.5%, Maintains Accommodative Stance",
+      "article_url": "https://economictimes.indiatimes.com/markets/rbi-monetary-policy-decision",
+      "edge_id": "RBI_INFLATION_REGULATED_BY_unknown"
+    },
+    {
+      "source": "RBI",
+      "target": "GDP_GROWTH",
+      "type": "ANNOUNCED",
+      "sentiment": 0.0,
+      "date": null,
+      "evidence": "The central bank has revised its GDP growth forecast for FY2027 to 6.8% from the earlier estimate of 6.5%.",
+      "article_id": "b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7",
+      "article_title": "RBI Keeps Repo Rate Unchanged at 6.5%, Maintains Accommodative Stance",
+      "article_url": "https://economictimes.indiatimes.com/markets/rbi-monetary-policy-decision",
+      "edge_id": "RBI_GDP_GROWTH_ANNOUNCED_unknown"
+    },
+    {
+      "source": "RBI",
+      "target": "MONETARY_POLICY",
+      "type": "ANNOUNCED",
+      "sentiment": 0.0,
+      "date": null,
+      "evidence": "The Monetary Policy Committee voted 5-1 in favor of maintaining the status quo.",
+      "article_id": "b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7",
+      "article_title": "RBI Keeps Repo Rate Unchanged at 6.5%, Maintains Accommodative Stance",
+      "article_url": "https://economictimes.indiatimes.com/markets/rbi-monetary-policy-decision",
+      "edge_id": "RBI_MONETARY_POLICY_ANNOUNCED_unknown"
+    },
+    {
+      "source": "FOREIGN_INSTITUTIONAL_INVESTORS",
+      "target": "RBI",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.3,
+      "date": null,
+      "evidence": "Foreign institutional investors have welcomed this decision, with the rupee strengthening against the dollar.",
+      "article_id": "b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7",
+      "article_title": "RBI Keeps Repo Rate Unchanged at 6.5%, Maintains Accommodative Stance",
+      "article_url": "https://economictimes.indiatimes.com/markets/rbi-monetary-policy-decision",
+      "edge_id": "FOREIGN_INSTITUTIONAL_INVESTORS_RBI_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "INFY",
+      "target": "Q4 FY2026",
+      "type": "ANNOUNCED",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "Infosys has reported a strong 15% year-on-year growth in its Q4 FY2026 revenue",
+      "article_id": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "article_title": "Infosys Reports 15% YoY Growth in Q4 Revenue, Announces Rs 10,000 Crore Buyback",
+      "article_url": "https://economictimes.indiatimes.com/tech/infosys-q4-results-2026",
+      "edge_id": "INFY_Q4 FY2026_ANNOUNCED_unknown"
+    },
+    {
+      "source": "INFY",
+      "target": "Salil Parekh",
+      "type": "ANNOUNCED",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "CEO Salil Parekh highlighted that the company's digital transformation services continue to drive growth",
+      "article_id": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "article_title": "Infosys Reports 15% YoY Growth in Q4 Revenue, Announces Rs 10,000 Crore Buyback",
+      "article_url": "https://economictimes.indiatimes.com/tech/infosys-q4-results-2026",
+      "edge_id": "INFY_Salil Parekh_ANNOUNCED_unknown"
+    },
+    {
+      "source": "INFY",
+      "target": "BFSI",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.3,
+      "date": null,
+      "evidence": "The company saw strong deal wins in the BFSI and retail sectors",
+      "article_id": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "article_title": "Infosys Reports 15% YoY Growth in Q4 Revenue, Announces Rs 10,000 Crore Buyback",
+      "article_url": "https://economictimes.indiatimes.com/tech/infosys-q4-results-2026",
+      "edge_id": "INFY_BFSI_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "INFY",
+      "target": "AI",
+      "type": "INVESTED_IN",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "The company is investing heavily in AI and generative AI capabilities to stay competitive",
+      "article_id": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "article_title": "Infosys Reports 15% YoY Growth in Q4 Revenue, Announces Rs 10,000 Crore Buyback",
+      "article_url": "https://economictimes.indiatimes.com/tech/infosys-q4-results-2026",
+      "edge_id": "INFY_AI_INVESTED_IN_unknown"
+    },
+    {
+      "source": "INFY",
+      "target": "INFY",
+      "type": "INVESTED_IN",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The board has approved a share buyback program worth Rs 10,000 crore",
+      "article_id": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "article_title": "Infosys Reports 15% YoY Growth in Q4 Revenue, Announces Rs 10,000 Crore Buyback",
+      "article_url": "https://economictimes.indiatimes.com/tech/infosys-q4-results-2026",
+      "edge_id": "INFY_INFY_INVESTED_IN_unknown"
+    },
+    {
+      "source": "INFY",
+      "target": "FY2027",
+      "type": "ANNOUNCED",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "For FY2027, Infosys has guided for revenue growth of 10-12% in constant currency terms",
+      "article_id": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "article_title": "Infosys Reports 15% YoY Growth in Q4 Revenue, Announces Rs 10,000 Crore Buyback",
+      "article_url": "https://economictimes.indiatimes.com/tech/infosys-q4-results-2026",
+      "edge_id": "INFY_FY2027_ANNOUNCED_unknown"
+    },
+    {
+      "source": "INFY",
+      "target": "Rs 42,500 crore",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "Infosys has reported a strong 15% year-on-year growth in its Q4 FY2026 revenue, reaching Rs 42,500 crore.",
+      "article_id": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "article_title": "Infosys Reports 15% YoY Growth in Q4 Revenue, Announces Rs 10,000 Crore Buyback",
+      "article_url": "https://economictimes.indiatimes.com/tech/infosys-q4-results-2026",
+      "edge_id": "INFY_Rs 42,500 crore_ANNOUNCED_unknown"
+    },
+    {
+      "source": "INFY",
+      "target": "Rs 7,800 crore",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company's net profit increased by 12% to Rs 7,800 crore.",
+      "article_id": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "article_title": "Infosys Reports 15% YoY Growth in Q4 Revenue, Announces Rs 10,000 Crore Buyback",
+      "article_url": "https://economictimes.indiatimes.com/tech/infosys-q4-results-2026",
+      "edge_id": "INFY_Rs 7,800 crore_ANNOUNCED_unknown"
+    },
+    {
+      "source": "INFY",
+      "target": "Rs 10,000 crore",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The board has approved a share buyback program worth Rs 10,000 crore at a maximum price of Rs 1,850 per share.",
+      "article_id": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "article_title": "Infosys Reports 15% YoY Growth in Q4 Revenue, Announces Rs 10,000 Crore Buyback",
+      "article_url": "https://economictimes.indiatimes.com/tech/infosys-q4-results-2026",
+      "edge_id": "INFY_Rs 10,000 crore_ANNOUNCED_unknown"
+    },
+    {
+      "source": "RELIANCE",
+      "target": "ENERGY",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company's strong performance was driven by increased demand in the energy and telecom sectors.",
+      "article_id": "d4e4f4g4h4i4j4k4l4m4n4o4p4q4",
+      "article_title": "Reliance Industries Reports Strong Q4 Performance, Expands Operations in Energy And Telecom Sectors",
+      "article_url": "https://economictimes.indiatimes.com/markets/reliance-q4-results",
+      "edge_id": "RELIANCE_ENERGY_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "RELIANCE",
+      "target": "TELECOM",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company's strong performance was driven by increased demand in the energy and telecom sectors.",
+      "article_id": "d4e4f4g4h4i4j4k4l4m4n4o4p4q4",
+      "article_title": "Reliance Industries Reports Strong Q4 Performance, Expands Operations in Energy And Telecom Sectors",
+      "article_url": "https://economictimes.indiatimes.com/markets/reliance-q4-results",
+      "edge_id": "RELIANCE_TELECOM_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "RELIANCE",
+      "target": "RELIANCE",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company has also announced plans to hire 5,000 employees in the coming quarter.",
+      "article_id": "d4e4f4g4h4i4j4k4l4m4n4o4p4q4",
+      "article_title": "Reliance Industries Reports Strong Q4 Performance, Expands Operations in Energy And Telecom Sectors",
+      "article_url": "https://economictimes.indiatimes.com/markets/reliance-q4-results",
+      "edge_id": "RELIANCE_RELIANCE_ANNOUNCED_unknown"
+    },
+    {
+      "source": "RELIANCE",
+      "target": "Q4FY2026",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "Reliance Industries has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year.",
+      "article_id": "d4e4f4g4h4i4j4k4l4m4n4o4p4q4",
+      "article_title": "Reliance Industries Reports Strong Q4 Performance, Expands Operations in Energy And Telecom Sectors",
+      "article_url": "https://economictimes.indiatimes.com/markets/reliance-q4-results",
+      "edge_id": "RELIANCE_Q4FY2026_ANNOUNCED_unknown"
+    },
+    {
+      "source": "HDFCBANK",
+      "target": "banking and financial services",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company's strong performance was driven by increased demand in the banking and financial services.",
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "article_title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "edge_id": "HDFCBANK_banking and financial services_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "HDFCBANK",
+      "target": "technology and infrastructure",
+      "type": "INVESTED_IN",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "Management highlighted that strategic investments in technology and infrastructure have started yielding positive results.",
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "article_title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "edge_id": "HDFCBANK_technology and infrastructure_INVESTED_IN_unknown"
+    },
+    {
+      "source": "HDFCBANK",
+      "target": "research and development",
+      "type": "INVESTED_IN",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company plans to expand its operations across multiple geographies and invest heavily in research and development.",
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "article_title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "edge_id": "HDFCBANK_research and development_INVESTED_IN_unknown"
+    },
+    {
+      "source": "HDFCBANK",
+      "target": "Indian market",
+      "type": "IMPACTED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "article_title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "edge_id": "HDFCBANK_Indian market_IMPACTED_unknown"
+    },
+    {
+      "source": "HDFCBANK",
+      "target": "5,000 employees",
+      "type": "ANNOUNCED",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "The company has also announced plans to hire 5,000 employees in the coming quarter.",
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "article_title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "edge_id": "HDFCBANK_5,000 employees_ANNOUNCED_unknown"
+    },
+    {
+      "source": "HDFCBANK",
+      "target": "REVENUE",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "HDFC Bank has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year.",
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "article_title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "edge_id": "HDFCBANK_REVENUE_ANNOUNCED_unknown"
+    },
+    {
+      "source": "HDFCBANK",
+      "target": "OPERATING_MARGINS",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "Operating margins improved to 22% from 19% in the previous quarter.",
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "article_title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "edge_id": "HDFCBANK_OPERATING_MARGINS_ANNOUNCED_unknown"
+    },
+    {
+      "source": "HDFCBANK",
+      "target": "MARKET_SHARE",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "Market share has increased by 3 percentage points compared to the previous year.",
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "article_title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "edge_id": "HDFCBANK_MARKET_SHARE_ANNOUNCED_unknown"
+    },
+    {
+      "source": "HDFCBANK",
+      "target": "BANKING",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company's strong performance was driven by increased demand in the banking and financial services.",
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "article_title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "edge_id": "HDFCBANK_BANKING_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "WIPRO",
+      "target": "IT",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company's strong performance was driven by increased demand in the IT services and consulting.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "WIPRO_IT_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "WIPRO",
+      "target": "Q4FY2026",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "Wipro has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "WIPRO_Q4FY2026_ANNOUNCED_unknown"
+    },
+    {
+      "source": "WIPRO",
+      "target": "RESEARCH_AND_DEVELOPMENT",
+      "type": "INVESTED_IN",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company plans to invest heavily in research and development.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "WIPRO_RESEARCH_AND_DEVELOPMENT_INVESTED_IN_unknown"
+    },
+    {
+      "source": "WIPRO",
+      "target": "MARKET_SHARE",
+      "type": "IMPACTED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "Market share has increased by 3 percentage points compared to the previous year.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "WIPRO_MARKET_SHARE_IMPACTED_unknown"
+    },
+    {
+      "source": "WIPRO",
+      "target": "OPERATING_MARGINS",
+      "type": "IMPACTED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "Operating margins improved to 22% from 19% in the previous quarter.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "WIPRO_OPERATING_MARGINS_IMPACTED_unknown"
+    },
+    {
+      "source": "WIPRO",
+      "target": "Q4 FY2026",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "Wipro has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "WIPRO_Q4 FY2026_ANNOUNCED_unknown"
+    },
+    {
+      "source": "WIPRO",
+      "target": "Indian market",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "WIPRO_Indian market_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "WIPRO",
+      "target": "Rs 12 per share",
+      "type": "ANNOUNCED",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "The board has recommended a dividend of Rs 12 per share.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "WIPRO_Rs 12 per share_ANNOUNCED_unknown"
+    },
+    {
+      "source": "WIPRO",
+      "target": "R&D",
+      "type": "INVESTED_IN",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company plans to invest heavily in research and development.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "WIPRO_R&D_INVESTED_IN_unknown"
+    },
+    {
+      "source": "WIPRO",
+      "target": "IndianMarket",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "WIPRO_IndianMarket_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "ANALYSTS",
+      "target": "WIPRO",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.8,
+      "date": null,
+      "evidence": "Analysts remain bullish on the stock, citing strong fundamentals and growth prospects.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "ANALYSTS_WIPRO_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "ANALYSTS",
+      "target": "HCLTECH",
+      "type": "ANNOUNCED",
+      "sentiment": 0.8,
+      "date": null,
+      "evidence": "Analysts remain bullish on the stock, citing strong fundamentals and growth prospects.",
+      "article_id": "d10e10f10g10h10i10j10k10l10m10n10o10p10q10",
+      "article_title": "HCL Technologies Reports Strong Q4 Performance, Expands Operations in It And Software Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hcltech-q4-results",
+      "edge_id": "ANALYSTS_HCLTECH_ANNOUNCED_unknown"
+    },
+    {
+      "source": "ANALYSTS",
+      "target": "HDFCBANK",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.8,
+      "date": null,
+      "evidence": "Analysts remain bullish on the stock, citing strong fundamentals and growth prospects.",
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "article_title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "edge_id": "ANALYSTS_HDFCBANK_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "ANALYSTS",
+      "target": "RELIANCE",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.8,
+      "date": null,
+      "evidence": "Analysts remain bullish on the stock, citing strong fundamentals and growth prospects.",
+      "article_id": "d4e4f4g4h4i4j4k4l4m4n4o4p4q4",
+      "article_title": "Reliance Industries Reports Strong Q4 Performance, Expands Operations in Energy And Telecom Sectors",
+      "article_url": "https://economictimes.indiatimes.com/markets/reliance-q4-results",
+      "edge_id": "ANALYSTS_RELIANCE_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "HCLTECH",
+      "target": "IT",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.8,
+      "date": null,
+      "evidence": "The company's strong performance was driven by increased demand in the IT and software services.",
+      "article_id": "d10e10f10g10h10i10j10k10l10m10n10o10p10q10",
+      "article_title": "HCL Technologies Reports Strong Q4 Performance, Expands Operations in It And Software Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hcltech-q4-results",
+      "edge_id": "HCLTECH_IT_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "HCLTECH",
+      "target": "REVENUE",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "HCL Technologies has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year.",
+      "article_id": "d10e10f10g10h10i10j10k10l10m10n10o10p10q10",
+      "article_title": "HCL Technologies Reports Strong Q4 Performance, Expands Operations in It And Software Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hcltech-q4-results",
+      "edge_id": "HCLTECH_REVENUE_ANNOUNCED_unknown"
+    },
+    {
+      "source": "HCLTECH",
+      "target": "OPERATING_MARGINS",
+      "type": "IMPACTED",
+      "sentiment": 0.7,
+      "date": null,
+      "evidence": "Operating margins improved to 22% from 19% in the previous quarter.",
+      "article_id": "d10e10f10g10h10i10j10k10l10m10n10o10p10q10",
+      "article_title": "HCL Technologies Reports Strong Q4 Performance, Expands Operations in It And Software Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hcltech-q4-results",
+      "edge_id": "HCLTECH_OPERATING_MARGINS_IMPACTED_unknown"
+    },
+    {
+      "source": "HCLTECH",
+      "target": "MARKET_SHARE",
+      "type": "IMPACTED",
+      "sentiment": 0.6,
+      "date": null,
+      "evidence": "Market share has increased by 3 percentage points compared to the previous year.",
+      "article_id": "d10e10f10g10h10i10j10k10l10m10n10o10p10q10",
+      "article_title": "HCL Technologies Reports Strong Q4 Performance, Expands Operations in It And Software Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hcltech-q4-results",
+      "edge_id": "HCLTECH_MARKET_SHARE_IMPACTED_unknown"
+    },
+    {
+      "source": "HCLTECH",
+      "target": "RESEARCH_AND_DEVELOPMENT",
+      "type": "INVESTED_IN",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company plans to invest heavily in research and development.",
+      "article_id": "d10e10f10g10h10i10j10k10l10m10n10o10p10q10",
+      "article_title": "HCL Technologies Reports Strong Q4 Performance, Expands Operations in It And Software Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hcltech-q4-results",
+      "edge_id": "HCLTECH_RESEARCH_AND_DEVELOPMENT_INVESTED_IN_unknown"
+    },
+    {
+      "source": "analysts",
+      "target": "HDFCBANK",
+      "type": "ANNOUNCED",
+      "sentiment": 0.8,
+      "date": null,
+      "evidence": "Analysts remain bullish on the stock, citing strong fundamentals and growth prospects.",
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "article_title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "edge_id": "analysts_HDFCBANK_ANNOUNCED_unknown"
+    },
+    {
+      "source": "CEO",
+      "target": "TATAMOTORS",
+      "type": "ANNOUNCED",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "Tata Motors CEO stated that the company aims to achieve 25% of its total sales from EVs by 2027.",
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "article_title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "article_url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "edge_id": "CEO_TATAMOTORS_ANNOUNCED_unknown"
+    },
+    {
+      "source": "ITC",
+      "target": "FMCG",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company's strong performance was driven by increased demand in the FMCG and consumer goods.",
+      "article_id": "d7e7f7g7h7i7j7k7l7m7n7o7p7q7",
+      "article_title": "ITC Reports Strong Q4 Performance, Expands Operations in Fmcg And Consumer Goods",
+      "article_url": "https://economictimes.indiatimes.com/markets/itc-q4-results",
+      "edge_id": "ITC_FMCG_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "ITC",
+      "target": "Q4 FY2026",
+      "type": "ANNOUNCED",
+      "sentiment": 0.0,
+      "date": null,
+      "evidence": "ITC has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year.",
+      "article_id": "d7e7f7g7h7i7j7k7l7m7n7o7p7q7",
+      "article_title": "ITC Reports Strong Q4 Performance, Expands Operations in Fmcg And Consumer Goods",
+      "article_url": "https://economictimes.indiatimes.com/markets/itc-q4-results",
+      "edge_id": "ITC_Q4 FY2026_ANNOUNCED_unknown"
+    },
+    {
+      "source": "ITC",
+      "target": "Indian Market",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "article_id": "d7e7f7g7h7i7j7k7l7m7n7o7p7q7",
+      "article_title": "ITC Reports Strong Q4 Performance, Expands Operations in Fmcg And Consumer Goods",
+      "article_url": "https://economictimes.indiatimes.com/markets/itc-q4-results",
+      "edge_id": "ITC_Indian Market_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "ITC",
+      "target": "CONSUMER",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company's strong performance was driven by increased demand in the FMCG and consumer goods.",
+      "article_id": "d7e7f7g7h7i7j7k7l7m7n7o7p7q7",
+      "article_title": "ITC Reports Strong Q4 Performance, Expands Operations in Fmcg And Consumer Goods",
+      "article_url": "https://economictimes.indiatimes.com/markets/itc-q4-results",
+      "edge_id": "ITC_CONSUMER_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "ITC",
+      "target": "Q4FY2026",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "ITC has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year.",
+      "article_id": "d7e7f7g7h7i7j7k7l7m7n7o7p7q7",
+      "article_title": "ITC Reports Strong Q4 Performance, Expands Operations in Fmcg And Consumer Goods",
+      "article_url": "https://economictimes.indiatimes.com/markets/itc-q4-results",
+      "edge_id": "ITC_Q4FY2026_ANNOUNCED_unknown"
+    },
+    {
+      "source": "MARUTI",
+      "target": "AUTO",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company's strong performance was driven by increased demand in the automobile manufacturing.",
+      "article_id": "d9e9f9g9h9i9j9k9l9m9n9o9p9q9",
+      "article_title": "Maruti Suzuki Reports Strong Q4 Performance, Expands Operations in Automobile Manufacturing",
+      "article_url": "https://economictimes.indiatimes.com/markets/maruti-q4-results",
+      "edge_id": "MARUTI_AUTO_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "MARUTI",
+      "target": "MANUFACTURING",
+      "type": "EXPANDED_OPERATIONS_IN",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company plans to expand its operations across multiple geographies and invest heavily in research and development.",
+      "article_id": "d9e9f9g9h9i9j9k9l9m9n9o9p9q9",
+      "article_title": "Maruti Suzuki Reports Strong Q4 Performance, Expands Operations in Automobile Manufacturing",
+      "article_url": "https://economictimes.indiatimes.com/markets/maruti-q4-results",
+      "edge_id": "MARUTI_MANUFACTURING_EXPANDED_OPERATIONS_IN_unknown"
+    },
+    {
+      "source": "MARUTI",
+      "target": "MARUTI",
+      "type": "ANNOUNCED",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "Maruti Suzuki has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year.",
+      "article_id": "d9e9f9g9h9i9j9k9l9m9n9o9p9q9",
+      "article_title": "Maruti Suzuki Reports Strong Q4 Performance, Expands Operations in Automobile Manufacturing",
+      "article_url": "https://economictimes.indiatimes.com/markets/maruti-q4-results",
+      "edge_id": "MARUTI_MARUTI_ANNOUNCED_unknown"
+    },
+    {
+      "source": "BHARTIARTL",
+      "target": "TELECOM",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company's strong performance was driven by increased demand in the telecom and 5G services.",
+      "article_id": "d8e8f8g8h8i8j8k8l8m8n8o8p8q8",
+      "article_title": "Bharti Airtel Reports Strong Q4 Performance, Expands Operations in Telecom And 5G Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/bhartiartl-q4-results",
+      "edge_id": "BHARTIARTL_TELECOM_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "BHARTIARTL",
+      "target": "5G",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company's strong performance was driven by increased demand in the telecom and 5G services.",
+      "article_id": "d8e8f8g8h8i8j8k8l8m8n8o8p8q8",
+      "article_title": "Bharti Airtel Reports Strong Q4 Performance, Expands Operations in Telecom And 5G Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/bhartiartl-q4-results",
+      "edge_id": "BHARTIARTL_5G_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "BHARTIARTL",
+      "target": "Q4 FY2026",
+      "type": "ANNOUNCED",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "Bharti Airtel has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year.",
+      "article_id": "d8e8f8g8h8i8j8k8l8m8n8o8p8q8",
+      "article_title": "Bharti Airtel Reports Strong Q4 Performance, Expands Operations in Telecom And 5G Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/bhartiartl-q4-results",
+      "edge_id": "BHARTIARTL_Q4 FY2026_ANNOUNCED_unknown"
+    },
+    {
+      "source": "BHARTIARTL",
+      "target": "Indian market",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "article_id": "d8e8f8g8h8i8j8k8l8m8n8o8p8q8",
+      "article_title": "Bharti Airtel Reports Strong Q4 Performance, Expands Operations in Telecom And 5G Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/bhartiartl-q4-results",
+      "edge_id": "BHARTIARTL_Indian market_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "BHARTIARTL",
+      "target": "Indian Market",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "article_id": "d8e8f8g8h8i8j8k8l8m8n8o8p8q8",
+      "article_title": "Bharti Airtel Reports Strong Q4 Performance, Expands Operations in Telecom And 5G Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/bhartiartl-q4-results",
+      "edge_id": "BHARTIARTL_Indian Market_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "BHARTIARTL",
+      "target": "BHARTIARTL",
+      "type": "ANNOUNCED",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "Bharti Airtel has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year.",
+      "article_id": "d8e8f8g8h8i8j8k8l8m8n8o8p8q8",
+      "article_title": "Bharti Airtel Reports Strong Q4 Performance, Expands Operations in Telecom And 5G Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/bhartiartl-q4-results",
+      "edge_id": "BHARTIARTL_BHARTIARTL_ANNOUNCED_unknown"
+    },
+    {
+      "source": "Analysts",
+      "target": "WIPRO",
+      "type": "BENEFITED_FROM",
+      "sentiment": 0.5,
+      "date": null,
+      "evidence": "Analysts remain bullish on the stock, citing strong fundamentals and growth prospects.",
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "article_title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "article_url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "edge_id": "Analysts_WIPRO_BENEFITED_FROM_unknown"
+    },
+    {
+      "source": "BOARD",
+      "target": "HCLTECH",
+      "type": "ANNOUNCED",
+      "sentiment": 0.2,
+      "date": null,
+      "evidence": "The board has recommended a dividend of Rs 12 per share.",
+      "article_id": "d10e10f10g10h10i10j10k10l10m10n10o10p10q10",
+      "article_title": "HCL Technologies Reports Strong Q4 Performance, Expands Operations in It And Software Services",
+      "article_url": "https://economictimes.indiatimes.com/markets/hcltech-q4-results",
+      "edge_id": "BOARD_HCLTECH_ANNOUNCED_unknown"
+    }
+  ],
+  "stats": {
+    "total_entities": 60,
+    "total_relationships": 74,
+    "entity_types": {
+      "COMPANY": 13,
+      "EVENT": 4,
+      "PERSON": 6,
+      "POLICY": 2,
+      "METRIC": 29,
+      "UNKNOWN": 6
+    },
+    "relationship_types": {
+      "ANNOUNCED": 31,
+      "INVESTED_IN": 9,
+      "COMPETED_WITH": 2,
+      "BENEFITED_FROM": 23,
+      "REGULATED_BY": 3,
+      "IMPACTED": 5,
+      "EXPANDED_OPERATIONS_IN": 1
+    },
+    "sentiment_distribution": {
+      "positive": 52,
+      "neutral": 22,
+      "negative": 0
+    },
+    "contrarian_count": 0
+  },
+  "temporal_index": {}
+}

@@ -1,0 +1,65 @@
+# ET Nexus - Unified .gitignore
+
+# ------------------------------------------------------------------------------
+# 🐍 Backend (Python / FastAPI / LangChain)
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Testing & Logs
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Vector Database (Qdrant Local)
+et_nexus_db/
+backend/et_nexus_db/
+
+# ------------------------------------------------------------------------------
+# 🌐 Frontend (Node.js / Next.js)
+# ------------------------------------------------------------------------------
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js Build Output
+.next/
+out/
+build/
+
+# Node environment
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# ------------------------------------------------------------------------------
+# 🔑 Security / Environment Variables
+# ------------------------------------------------------------------------------
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
+# ------------------------------------------------------------------------------
+# 💻 OS / IDE Specific
+# ------------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

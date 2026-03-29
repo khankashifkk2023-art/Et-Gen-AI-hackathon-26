@@ -1,0 +1,541 @@
+﻿.\venv\Scripts\python.e
+xe : [2026-03-27 
+16:35:06] [INFO] 
+[data_collector] 
+DataCollector 
+initialized
+At line:1 char:1
++ .\venv\Scripts\python
+.exe test_articles.py 
+2>&1 | Out-File 
+-FilePath  ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo     
+         : 
+NotSpecified: ([    
+2026-03-27 16:...tor   
+  initialized:String) 
+[    ], RemoteException
+    + 
+FullyQualifiedError    
+Id : NativeCommandErr  
+  or
+ 
+[2026-03-27 16:35:06] 
+[INFO] 
+[data_collector] 
+\U0001f4e1 Starting 
+collection from 5 RSS 
+feeds
+[2026-03-27 16:35:06] 
+[INFO] 
+[data_collector]    
+Fetching feed: https://
+economictimes.indiatime
+s.com/rssfeeds/1221656.
+cms
+[2026-03-27 16:35:06] 
+[WARNING] 
+[data_collector]    No 
+entries found in feed: 
+https://economictimes.i
+ndiatimes.com/rssfeeds/
+1221656.cms
+[2026-03-27 16:35:06] 
+[INFO] 
+[data_collector]    
+Fetching feed: https://
+economictimes.indiatime
+s.com/markets/rssfeeds/
+1977021501.cms
+[2026-03-27 16:35:06] 
+[INFO] 
+[data_collector]       
+\u2192 Scraping: Rupee 
+slumps to record low 
+past 94/USD, set for 
+worst fiscal...
+[2026-03-27 16:35:06] 
+[INFO] 
+[data_collector]       
+\u2192 Scraping: PSU 
+banks slide up to 5% 
+amid war-led selloff; 
+UCO, BoB, pun...
+[2026-03-27 16:35:07] 
+[INFO] 
+[data_collector]    
+Fetching feed: https://
+economictimes.indiatime
+s.com/tech/rssfeeds/133
+57270.cms
+[2026-03-27 16:35:08] 
+[INFO] 
+[data_collector]       
+\u2192 Scraping: 
+Austria says will ban 
+social media for 
+children under 14...
+[2026-03-27 16:35:08] 
+[INFO] 
+[data_collector]       
+\u23ed\ufe0f  Skipping 
+(too short): Austria 
+says will ban social 
+media for c
+[2026-03-27 16:35:08] 
+[INFO] 
+[data_collector]       
+\u2192 Scraping: Mule 
+networks biggest fraud 
+threat for Indian 
+firms: India F...
+[2026-03-27 16:35:09] 
+[INFO] 
+[data_collector]    
+Fetching feed: https://
+economictimes.indiatime
+s.com/industry/rssfeeds
+/13352306.cms
+[2026-03-27 16:35:10] 
+[INFO] 
+[data_collector]       
+\u2192 Scraping: Royal 
+Enfield launches 2026 
+Guerrilla 450: Check 
+price, feat...
+[2026-03-27 16:35:10] 
+[INFO] 
+[data_collector]       
+\u2192 Scraping: Birla 
+Estates forays into 
+redevelopment with Rs 
+1,700-cr pro...
+[2026-03-27 16:35:12] 
+[INFO] 
+[data_collector]    
+Fetching feed: https://
+economictimes.indiatime
+s.com/news/economy/rssf
+eeds/1373380680.cms
+[2026-03-27 16:35:12] 
+[INFO] 
+[data_collector]       
+\u2192 Scraping: China 
+launches two 
+'reciprocal' probes 
+into US trade 
+practic...
+[2026-03-27 16:35:13] 
+[INFO] 
+[data_collector]       
+\u2192 Scraping: 
+IndiaÆs New Railway 
+Blueprint: SuratÆs 
+\u20b91,500cr 
+Multi-Modal ...
+[2026-03-27 16:35:14] 
+[INFO] 
+[data_collector]       
+\u23ed\ufe0f  Skipping 
+(too short): IndiaÆs 
+New Railway Blueprint: 
+SuratÆs \u20b9
+[2026-03-27 16:35:14] 
+[INFO] 
+[data_collector] 
+\u2705 Collected 6 
+articles from RSS feeds
+C:\Users\USER\OneDrive\
+Desktop\ET_news\backend
+\venv\Lib\site-packages
+\langchain_core\_api\de
+precation.py:25: 
+UserWarning: Core 
+Pydantic V1 
+functionality isn't 
+compatible with Python 
+3.14 or greater.
+  from 
+pydantic.v1.fields 
+import FieldInfo as 
+FieldInfoV1
+[2026-03-27 16:35:22] 
+[INFO] 
+[knowledge_base] 
+ETNexusKnowledgeBase 
+configured (lazy 
+initialization)
+[2026-03-27 16:35:22] 
+[INFO] 
+[knowledge_base] 
+\U0001f504 
+Initializing 
+ETNexusKnowledgeBase...
+Traceback (most recent 
+call last):
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\portalocker\po
+rtalocker.py", line 
+223, in lock
+    msvcrt.locking(  # 
+type: 
+ignore[attr-defined]
+    ~~~~~~~~~~~~~~^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^
+        fd,
+        ^^^
+        mode,
+        ^^^^^
+        self._msvcrt_lo
+ck_length,
+        ^^^^^^^^^^^^^^^
+^^^^^^^^^^
+    )
+    ^
+PermissionError: 
+[Errno 13] Permission 
+denied
+
+The above exception 
+was the direct cause 
+of the following 
+exception:
+
+Traceback (most recent 
+call last):
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\qdrant_client\
+local\qdrant_local.py",
+ line 144, in _load
+    portalocker.lock(
+    ~~~~~~~~~~~~~~~~^
+        
+self._flock_file,
+        
+^^^^^^^^^^^^^^^^^
+        portalocker.Loc
+kFlags.EXCLUSIVE | port
+alocker.LockFlags.NON_B
+LOCKING,
+        ^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^
+    )
+    ^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\portalocker\po
+rtalocker.py", line 
+316, in lock
+    locker(file, flags)
+    ~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\portalocker\po
+rtalocker.py", line 
+230, in lock
+    raise exceptions.Al
+readyLocked(
+    ...<3 lines>...
+    ) from exc_value
+portalocker.exceptions.
+AlreadyLocked: (1, 
+'[Errno 13] Permission 
+denied')
+
+During handling of the 
+above exception, 
+another exception 
+occurred:
+
+Traceback (most recent 
+call last):
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\test_articles.
+py", line 28, in main
+    result = await kb.i
+ngest_from_sources(limi
+t_per_feed=3, 
+use_fallback=False)
+             ^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\ingestion\et_n
+exus_ingestion.py", 
+line 105, in 
+ingest_from_sources
+    self._ensure_initia
+lized()
+    ~~~~~~~~~~~~~~~~~~~
+~~~~~^^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\ingestion\et_n
+exus_ingestion.py", 
+line 60, in 
+_ensure_initialized
+    self._vector_store 
+= ETNexusVectorStore()
+                       
+  ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\ingestion\vect
+or_store.py", line 60, 
+in __init__
+    self.client = Qdran
+tClient(path=db_path)
+                  ~~~~~
+~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\qdrant_client\
+qdrant_client.py", 
+line 127, in __init__
+    self._client = 
+QdrantLocal(
+                   
+~~~~~~~~~~~^
+        location=path,
+        ^^^^^^^^^^^^^^
+        force_disable_c
+heck_same_thread=force_
+disable_check_same_thre
+ad,
+        ^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^
+    )
+    ^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\qdrant_client\
+local\qdrant_local.py",
+ line 63, in __init__
+    self._load()
+    ~~~~~~~~~~^^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\qdrant_client\
+local\qdrant_local.py",
+ line 149, in _load
+    raise RuntimeError(
+    ...<2 lines>...
+    )
+RuntimeError: Storage 
+folder ./et_nexus_db 
+is already accessed by 
+another instance of 
+Qdrant client. If you 
+require concurrent 
+access, use Qdrant 
+server instead.
+Testing RSS collection (2 per feed)...
+Collected 6 articles from RSS
+  - [Fri, 27 Mar 2026 16:] Rupee slumps to record low past 94/USD, set for worst fiscal
+  - [Fri, 27 Mar 2026 15:] PSU banks slide up to 5% amid war-led selloff; UCO, BoB, pun
+  - [Fri, 27 Mar 2026 14:] Mule networks biggest fraud threat for Indian firms: India F
+  - [Fri, 27 Mar 2026 16:] Royal Enfield launches 2026 Guerrilla 450: Check price, feat
+  - [Fri, 27 Mar 2026 15:] Birla Estates forays into redevelopment with Rs 1,700-cr pro
+
+Testing full ingest pipeline...
+≡ƒùä∩╕Å  Initializing Qdrant at: ./et_nexus_db
+INGEST FAILED: Storage folder ./et_nexus_db is already accessed by another instance of Qdrant client. If you require concurrent access, use Qdrant server instead.
+≡ƒùä∩╕Å  Initializing Qdrant at: ./et_nexus_db
+Traceback (most recent 
+call last):
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\portalocker\po
+rtalocker.py", line 
+223, in lock
+    msvcrt.locking(  # 
+type: 
+ignore[attr-defined]
+    ~~~~~~~~~~~~~~^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^
+        fd,
+        ^^^
+        mode,
+        ^^^^^
+        self._msvcrt_lo
+ck_length,
+        ^^^^^^^^^^^^^^^
+^^^^^^^^^^
+    )
+    ^
+PermissionError: 
+[Errno 13] Permission 
+denied
+
+The above exception 
+was the direct cause 
+of the following 
+exception:
+
+Traceback (most recent 
+call last):
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\qdrant_client\
+local\qdrant_local.py",
+ line 144, in _load
+    portalocker.lock(
+    ~~~~~~~~~~~~~~~~^
+        
+self._flock_file,
+        
+^^^^^^^^^^^^^^^^^
+        portalocker.Loc
+kFlags.EXCLUSIVE | port
+alocker.LockFlags.NON_B
+LOCKING,
+        ^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^
+    )
+    ^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\portalocker\po
+rtalocker.py", line 
+316, in lock
+    locker(file, flags)
+    ~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\portalocker\po
+rtalocker.py", line 
+230, in lock
+    raise exceptions.Al
+readyLocked(
+    ...<3 lines>...
+    ) from exc_value
+portalocker.exceptions.
+AlreadyLocked: (1, 
+'[Errno 13] Permission 
+denied')
+
+During handling of the 
+above exception, 
+another exception 
+occurred:
+
+Traceback (most recent 
+call last):
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\test_articles.
+py", line 41, in 
+<module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Python314\Li
+b\asyncio\runners.py", 
+line 204, in run
+    return 
+runner.run(main)
+           
+~~~~~~~~~~^^^^^^
+  File "C:\Python314\Li
+b\asyncio\runners.py", 
+line 127, in run
+    return self._loop.r
+un_until_complete(task)
+           ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python314\Li
+b\asyncio\base_events.p
+y", line 719, in 
+run_until_complete
+    return 
+future.result()
+           
+~~~~~~~~~~~~~^^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\test_articles.
+py", line 37, in main
+    vs = 
+ETNexusVectorStore()
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\ingestion\vect
+or_store.py", line 60, 
+in __init__
+    self.client = Qdran
+tClient(path=db_path)
+                  ~~~~~
+~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\qdrant_client\
+qdrant_client.py", 
+line 127, in __init__
+    self._client = 
+QdrantLocal(
+                   
+~~~~~~~~~~~^
+        location=path,
+        ^^^^^^^^^^^^^^
+        force_disable_c
+heck_same_thread=force_
+disable_check_same_thre
+ad,
+        ^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^
+    )
+    ^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\qdrant_client\
+local\qdrant_local.py",
+ line 63, in __init__
+    self._load()
+    ~~~~~~~~~~^^
+  File "C:\Users\USER\O
+neDrive\Desktop\ET_news
+\backend\venv\Lib\site-
+packages\qdrant_client\
+local\qdrant_local.py",
+ line 149, in _load
+    raise RuntimeError(
+    ...<2 lines>...
+    )
+RuntimeError: Storage 
+folder ./et_nexus_db 
+is already accessed by 
+another instance of 
+Qdrant client. If you 
+require concurrent 
+access, use Qdrant 
+server instead.

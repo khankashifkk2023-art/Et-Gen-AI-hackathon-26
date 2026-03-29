@@ -1,0 +1,338 @@
+{
+  "articles": [
+    {
+      "article_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+      "title": "Tata Motors Unveils New Electric SUV with 500km Range",
+      "url": "https://economictimes.indiatimes.com/industry/auto/tata-motors-electric-suv",
+      "date": "2026-03-25",
+      "body": "Tata Motors has launched its latest electric SUV, the Nexon EV Max Plus, featuring an impressive 500-kilometer range on a single charge. The vehicle is priced competitively at Rs 18.5 lakh and comes with advanced driver assistance systems. Industry experts believe this launch will significantly boost Tata's market share in the rapidly growing EV segment. The company has invested over Rs 5,000 crore in developing this platform. The SUV features a 60 kWh battery pack and supports fast charging, reaching 80% charge in just 45 minutes. Tata Motors CEO stated that the company aims to achieve 25% of its total sales from EVs by 2027. The vehicle will compete directly with MG ZS EV and Hyundai Kona Electric. Bookings have already crossed 10,000 units within the first week of announcement. The company plans to expand its EV charging infrastructure across 100 cities in India. This launch comes at a time when the government is pushing for increased EV adoption through various incentives and subsidies.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765432,width-1200,height-900/tata-nexon-ev.jpg",
+      "tags": [
+        "TATAMOTORS",
+        "EV",
+        "AUTO",
+        "MANUFACTURING"
+      ]
+    },
+    {
+      "article_id": "b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7",
+      "title": "RBI Keeps Repo Rate Unchanged at 6.5%, Maintains Accommodative Stance",
+      "url": "https://economictimes.indiatimes.com/markets/rbi-monetary-policy-decision",
+      "date": "2026-03-24",
+      "body": "The Reserve Bank of India has decided to keep the repo rate unchanged at 6.5% for the third consecutive policy meeting. The Monetary Policy Committee voted 5-1 in favor of maintaining the status quo. RBI Governor emphasized that inflation remains within the target range of 4% with a tolerance band of +/- 2%. The central bank has revised its GDP growth forecast for FY2027 to 6.8% from the earlier estimate of 6.5%. Experts believe this decision will provide stability to the financial markets and support economic growth. The RBI also announced measures to enhance liquidity in the banking system. Foreign institutional investors have welcomed this decision, with the rupee strengthening against the dollar. The central bank highlighted that global economic uncertainties, particularly related to crude oil prices, remain a concern. Retail inflation stood at 4.2% in February 2026. The RBI maintained its accommodative stance to support growth while keeping inflation under control.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765433,width-1200,height-900/rbi-building.jpg",
+      "tags": [
+        "RBI",
+        "MONETARY_POLICY",
+        "INTEREST_RATES",
+        "ECONOMY"
+      ]
+    },
+    {
+      "article_id": "c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8",
+      "title": "Infosys Reports 15% YoY Growth in Q4 Revenue, Announces Rs 10,000 Crore Buyback",
+      "url": "https://economictimes.indiatimes.com/tech/infosys-q4-results-2026",
+      "date": "2026-03-23",
+      "body": "Infosys has reported a strong 15% year-on-year growth in its Q4 FY2026 revenue, reaching Rs 42,500 crore. The company's net profit increased by 12% to Rs 7,800 crore. The board has approved a share buyback program worth Rs 10,000 crore at a maximum price of Rs 1,850 per share. CEO Salil Parekh highlighted that the company's digital transformation services continue to drive growth, accounting for 62% of total revenue. The company has also announced a final dividend of Rs 18 per share. Infosys added 85 new clients during the quarter and saw strong deal wins in the BFSI and retail sectors. The company's attrition rate has improved to 14.2% from 18.5% in the previous quarter. For FY2027, Infosys has guided for revenue growth of 10-12% in constant currency terms. The company is investing heavily in AI and generative AI capabilities to stay competitive. Employee headcount stood at 3.45 lakh at the end of Q4.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765434,width-1200,height-900/infosys-campus.jpg",
+      "tags": [
+        "INFY",
+        "IT",
+        "TECH",
+        "EARNINGS"
+      ]
+    },
+    {
+      "article_id": "d4e4f4g4h4i4j4k4l4m4n4o4p4q4",
+      "title": "Reliance Industries Reports Strong Q4 Performance, Expands Operations in Energy And Telecom Sectors",
+      "url": "https://economictimes.indiatimes.com/markets/reliance-q4-results",
+      "date": "2026-03-22",
+      "body": "Reliance Industries has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the energy and telecom sectors. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765434,width-1200,height-900/reliance-office.jpg",
+      "tags": [
+        "RELIANCE",
+        "ENERGY",
+        "TELECOM"
+      ]
+    },
+    {
+      "article_id": "d5e5f5g5h5i5j5k5l5m5n5o5p5q5",
+      "title": "HDFC Bank Reports Strong Q4 Performance, Expands Operations in Banking And Financial Services",
+      "url": "https://economictimes.indiatimes.com/markets/hdfcbank-q4-results",
+      "date": "2026-03-21",
+      "body": "HDFC Bank has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the banking and financial services. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765435,width-1200,height-900/hdfcbank-office.jpg",
+      "tags": [
+        "HDFCBANK",
+        "BANKING",
+        "FINANCE"
+      ]
+    },
+    {
+      "article_id": "d6e6f6g6h6i6j6k6l6m6n6o6p6q6",
+      "title": "Wipro Reports Strong Q4 Performance, Expands Operations in It Services And Consulting",
+      "url": "https://economictimes.indiatimes.com/markets/wipro-q4-results",
+      "date": "2026-03-20",
+      "body": "Wipro has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the IT services and consulting. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765436,width-1200,height-900/wipro-office.jpg",
+      "tags": [
+        "WIPRO",
+        "IT",
+        "TECH"
+      ]
+    },
+    {
+      "article_id": "d7e7f7g7h7i7j7k7l7m7n7o7p7q7",
+      "title": "ITC Reports Strong Q4 Performance, Expands Operations in Fmcg And Consumer Goods",
+      "url": "https://economictimes.indiatimes.com/markets/itc-q4-results",
+      "date": "2026-03-19",
+      "body": "ITC has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the FMCG and consumer goods. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765437,width-1200,height-900/itc-office.jpg",
+      "tags": [
+        "ITC",
+        "FMCG",
+        "CONSUMER"
+      ]
+    },
+    {
+      "article_id": "d8e8f8g8h8i8j8k8l8m8n8o8p8q8",
+      "title": "Bharti Airtel Reports Strong Q4 Performance, Expands Operations in Telecom And 5G Services",
+      "url": "https://economictimes.indiatimes.com/markets/bhartiartl-q4-results",
+      "date": "2026-03-18",
+      "body": "Bharti Airtel has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the telecom and 5G services. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765438,width-1200,height-900/bhartiartl-office.jpg",
+      "tags": [
+        "BHARTIARTL",
+        "TELECOM",
+        "5G"
+      ]
+    },
+    {
+      "article_id": "d9e9f9g9h9i9j9k9l9m9n9o9p9q9",
+      "title": "Maruti Suzuki Reports Strong Q4 Performance, Expands Operations in Automobile Manufacturing",
+      "url": "https://economictimes.indiatimes.com/markets/maruti-q4-results",
+      "date": "2026-03-17",
+      "body": "Maruti Suzuki has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the automobile manufacturing. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765439,width-1200,height-900/maruti-office.jpg",
+      "tags": [
+        "MARUTI",
+        "AUTO",
+        "MANUFACTURING"
+      ]
+    },
+    {
+      "article_id": "d10e10f10g10h10i10j10k10l10m10n10o10p10q10",
+      "title": "HCL Technologies Reports Strong Q4 Performance, Expands Operations in It And Software Services",
+      "url": "https://economictimes.indiatimes.com/markets/hcltech-q4-results",
+      "date": "2026-03-16",
+      "body": "HCL Technologies has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the IT and software services. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765440,width-1200,height-900/hcltech-office.jpg",
+      "tags": [
+        "HCLTECH",
+        "IT",
+        "TECH"
+      ]
+    },
+    {
+      "article_id": "d11e11f11g11h11i11j11k11l11m11n11o11p11q11",
+      "title": "Asian Paints Reports Strong Q4 Performance, Expands Operations in Paints And Coatings",
+      "url": "https://economictimes.indiatimes.com/markets/asianpaint-q4-results",
+      "date": "2026-03-15",
+      "body": "Asian Paints has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the paints and coatings. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765441,width-1200,height-900/asianpaint-office.jpg",
+      "tags": [
+        "ASIANPAINT",
+        "PAINTS",
+        "CONSUMER"
+      ]
+    },
+    {
+      "article_id": "d12e12f12g12h12i12j12k12l12m12n12o12p12q12",
+      "title": "Bajaj Finance Reports Strong Q4 Performance, Expands Operations in Non-Banking Financial Services",
+      "url": "https://economictimes.indiatimes.com/markets/bajfinance-q4-results",
+      "date": "2026-03-14",
+      "body": "Bajaj Finance has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the non-banking financial services. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765442,width-1200,height-900/bajfinance-office.jpg",
+      "tags": [
+        "BAJFINANCE",
+        "NBFC",
+        "FINANCE"
+      ]
+    },
+    {
+      "article_id": "d13e13f13g13h13i13j13k13l13m13n13o13p13q13",
+      "title": "Sun Pharma Reports Strong Q4 Performance, Expands Operations in Pharmaceutical Products",
+      "url": "https://economictimes.indiatimes.com/markets/sunpharma-q4-results",
+      "date": "2026-03-13",
+      "body": "Sun Pharma has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the pharmaceutical products. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765443,width-1200,height-900/sunpharma-office.jpg",
+      "tags": [
+        "SUNPHARMA",
+        "PHARMA",
+        "HEALTHCARE"
+      ]
+    },
+    {
+      "article_id": "d14e14f14g14h14i14j14k14l14m14n14o14p14q14",
+      "title": "Tech Mahindra Reports Strong Q4 Performance, Expands Operations in It And Telecom Services",
+      "url": "https://economictimes.indiatimes.com/markets/techm-q4-results",
+      "date": "2026-03-12",
+      "body": "Tech Mahindra has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the IT and telecom services. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765444,width-1200,height-900/techm-office.jpg",
+      "tags": [
+        "TECHM",
+        "IT",
+        "TECH"
+      ]
+    },
+    {
+      "article_id": "d15e15f15g15h15i15j15k15l15m15n15o15p15q15",
+      "title": "Mahindra & Mahindra Reports Strong Q4 Performance, Expands Operations in Automobiles And Farm Equipment",
+      "url": "https://economictimes.indiatimes.com/markets/m&m-q4-results",
+      "date": "2026-03-11",
+      "body": "Mahindra & Mahindra has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the automobiles and farm equipment. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765445,width-1200,height-900/m&m-office.jpg",
+      "tags": [
+        "M&M",
+        "AUTO",
+        "TRACTORS"
+      ]
+    },
+    {
+      "article_id": "d16e16f16g16h16i16j16k16l16m16n16o16p16q16",
+      "title": "Axis Bank Reports Strong Q4 Performance, Expands Operations in Retail And Corporate Banking",
+      "url": "https://economictimes.indiatimes.com/markets/axisbank-q4-results",
+      "date": "2026-03-10",
+      "body": "Axis Bank has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the retail and corporate banking. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765446,width-1200,height-900/axisbank-office.jpg",
+      "tags": [
+        "AXISBANK",
+        "BANKING",
+        "FINANCE"
+      ]
+    },
+    {
+      "article_id": "d17e17f17g17h17i17j17k17l17m17n17o17p17q17",
+      "title": "Kotak Mahindra Bank Reports Strong Q4 Performance, Expands Operations in Banking Services",
+      "url": "https://economictimes.indiatimes.com/markets/kotakbank-q4-results",
+      "date": "2026-03-09",
+      "body": "Kotak Mahindra Bank has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the banking services. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765447,width-1200,height-900/kotakbank-office.jpg",
+      "tags": [
+        "KOTAKBANK",
+        "BANKING",
+        "FINANCE"
+      ]
+    },
+    {
+      "article_id": "d18e18f18g18h18i18j18k18l18m18n18o18p18q18",
+      "title": "Larsen & Toubro Reports Strong Q4 Performance, Expands Operations in Infrastructure And Engineering",
+      "url": "https://economictimes.indiatimes.com/markets/lt-q4-results",
+      "date": "2026-03-08",
+      "body": "Larsen & Toubro has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the infrastructure and engineering. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765448,width-1200,height-900/lt-office.jpg",
+      "tags": [
+        "LT",
+        "INFRASTRUCTURE",
+        "ENGINEERING"
+      ]
+    },
+    {
+      "article_id": "d19e19f19g19h19i19j19k19l19m19n19o19p19q19",
+      "title": "UltraTech Cement Reports Strong Q4 Performance, Expands Operations in Cement Manufacturing",
+      "url": "https://economictimes.indiatimes.com/markets/ultracemco-q4-results",
+      "date": "2026-03-07",
+      "body": "UltraTech Cement has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the cement manufacturing. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765449,width-1200,height-900/ultracemco-office.jpg",
+      "tags": [
+        "ULTRACEMCO",
+        "CEMENT",
+        "CONSTRUCTION"
+      ]
+    },
+    {
+      "article_id": "d20e20f20g20h20i20j20k20l20m20n20o20p20q20",
+      "title": "Nestle India Reports Strong Q4 Performance, Expands Operations in Food And Beverages",
+      "url": "https://economictimes.indiatimes.com/markets/nestleind-q4-results",
+      "date": "2026-03-06",
+      "body": "Nestle India has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the food and beverages. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765450,width-1200,height-900/nestleind-office.jpg",
+      "tags": [
+        "NESTLEIND",
+        "FMCG",
+        "FOOD"
+      ]
+    },
+    {
+      "article_id": "d21e21f21g21h21i21j21k21l21m21n21o21p21q21",
+      "title": "Power Grid Reports Strong Q4 Performance, Expands Operations in Power Transmission",
+      "url": "https://economictimes.indiatimes.com/markets/powergrid-q4-results",
+      "date": "2026-03-05",
+      "body": "Power Grid has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the power transmission. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765451,width-1200,height-900/powergrid-office.jpg",
+      "tags": [
+        "POWERGRID",
+        "UTILITIES",
+        "ENERGY"
+      ]
+    },
+    {
+      "article_id": "d22e22f22g22h22i22j22k22l22m22n22o22p22q22",
+      "title": "NTPC Reports Strong Q4 Performance, Expands Operations in Power Generation",
+      "url": "https://economictimes.indiatimes.com/markets/ntpc-q4-results",
+      "date": "2026-03-04",
+      "body": "NTPC has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the power generation. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765452,width-1200,height-900/ntpc-office.jpg",
+      "tags": [
+        "NTPC",
+        "POWER",
+        "ENERGY"
+      ]
+    },
+    {
+      "article_id": "d23e23f23g23h23i23j23k23l23m23n23o23p23q23",
+      "title": "Coal India Reports Strong Q4 Performance, Expands Operations in Coal Mining",
+      "url": "https://economictimes.indiatimes.com/markets/coalindia-q4-results",
+      "date": "2026-03-03",
+      "body": "Coal India has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the coal mining. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765453,width-1200,height-900/coalindia-office.jpg",
+      "tags": [
+        "COALINDIA",
+        "MINING",
+        "ENERGY"
+      ]
+    },
+    {
+      "article_id": "d24e24f24g24h24i24j24k24l24m24n24o24p24q24",
+      "title": "ONGC Reports Strong Q4 Performance, Expands Operations in Oil And Gas Exploration",
+      "url": "https://economictimes.indiatimes.com/markets/ongc-q4-results",
+      "date": "2026-03-02",
+      "body": "ONGC has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the oil and gas exploration. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765454,width-1200,height-900/ongc-office.jpg",
+      "tags": [
+        "ONGC",
+        "OIL",
+        "ENERGY"
+      ]
+    },
+    {
+      "article_id": "d25e25f25g25h25i25j25k25l25m25n25o25p25q25",
+      "title": "Adani Ports Reports Strong Q4 Performance, Expands Operations in Port Operations",
+      "url": "https://economictimes.indiatimes.com/markets/adaniports-q4-results",
+      "date": "2026-03-01",
+      "body": "Adani Ports has announced robust financial results for Q4 FY2026, with revenue growing by 18% year-on-year. The company's strong performance was driven by increased demand in the port operations. Management highlighted that strategic investments in technology and infrastructure have started yielding positive results. The company plans to expand its operations across multiple geographies and invest heavily in research and development. Analysts remain bullish on the stock, citing strong fundamentals and growth prospects. The company has also announced plans to hire 5,000 employees in the coming quarter. Market share has increased by 3 percentage points compared to the previous year. The board has recommended a dividend of Rs 12 per share. Operating margins improved to 22% from 19% in the previous quarter. The company is well-positioned to capitalize on emerging opportunities in the Indian market.",
+      "image_url": "https://img.etimg.com/thumb/msid-98765455,width-1200,height-900/adaniports-office.jpg",
+      "tags": [
+        "ADANIPORTS",
+        "LOGISTICS",
+        "INFRASTRUCTURE"
+      ]
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-03-26T01:16:23.482191Z",
+    "article_count": 25,
+    "source": "manual_curation",
+    "version": "1.0"
+  }
+}

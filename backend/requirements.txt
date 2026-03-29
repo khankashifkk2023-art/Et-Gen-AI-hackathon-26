@@ -1,0 +1,35 @@
+# ET Nexus - Backend Dependencies
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# Scraping & Preprocessing
+feedparser
+newspaper3k
+trafilatura
+beautifulsoup4
+ftfy
+dateparser
+lxml
+lxml_html_clean
+
+# Chunking & Embeddings
+langchain-text-splitters
+langchain-core
+
+# Vector Database
+qdrant-client
+fastembed
+
+# AI / LLM
+groq
+
+# Utilities
+httpx
+edge-tts
+mutagen
+
+# Phase 6 & 7: Story Arc Tracker (GraphRAG)
+networkx
+python-louvain
